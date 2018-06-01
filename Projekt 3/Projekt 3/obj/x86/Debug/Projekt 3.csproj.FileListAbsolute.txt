@@ -1,0 +1,52 @@
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\Projekt 3.exe
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\Projekt 3.pdb
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\obj\x86\Debug\Projekt 3.csprojResolveAssemblyReference.cache
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\obj\x86\Debug\Projekt 3.csproj.CoreCompileInputs.cache
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\obj\x86\Debug\Projekt 3.exe
+C:\Users\TBTE4HP06\Desktop\Projekt 3\Projekt 3\obj\x86\Debug\Projekt 3.pdb
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\Content\Wall.xnb
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\Projekt 3.exe
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\Projekt 3.pdb
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\obj\x86\Debug\Projekt 3.csprojResolveAssemblyReference.cache
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\obj\x86\Debug\Projekt 3.csproj.CoreCompileInputs.cache
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\obj\x86\Debug\Projekt 3.exe
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\obj\x86\Debug\Projekt 3.pdb
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\Content\pacman.xnb
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\TBTE4HP06\Desktop\Alla projekt\Projekt 3\Projekt 3\bin\Windows\x86\Debug\Content\Score.xnb

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/TBTE4HP06/Desktop/Alla projekt/Projekt 3/Projekt 3/Content/SpriteSheet.png</File>
+    <File>C:/Users/TBTE4HP06/Desktop/Alla projekt/Projekt 3/Projekt 3/Content/Wall.png</File>
+    <File>C:/Users/TBTE4HP06/Desktop/Alla projekt/Projekt 3/Projekt 3/Content/Score.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
